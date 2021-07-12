@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: c5e10969dc194d743a74b5ac4371b692
+  - enabled: 1
+    path: Assets/Scenes/rooms/SampleScene.unity
+    guid: 51cdc7dc329fe4641926ab825f9dcf12
+  - enabled: 1
+    path: Assets/Scenes/rooms/Greenhouse/Greenhouse2.unity
+    guid: 26ec81575429bcb4192d4079009cdf9f
+  - enabled: 1
+    path: Assets/Scenes/rooms/Greenhouse/Greenhouse1.unity
+    guid: c58152695be342c4db346c391f2018b1
+  - enabled: 1
+    path: Assets/Scenes/rooms/Greenhouse/Greenhouse3.unity
+    guid: 3982842e4c2fcac4aa91535171a023e8
+  - enabled: 1
+    path: Assets/Scenes/rooms/Greenhouse/GreenhouseBoss.unity
+    guid: 27e1e498b6bf26949828874c79d161a2
+  - enabled: 1
+    path: Assets/Scenes/rooms/Aquarium/Aquarium1.unity
+    guid: b93bd1487b207d64c857e4958e660f80
+  - enabled: 1
+    path: Assets/Scenes/rooms/Aquarium/Aquarium2.unity
+    guid: b49f23e9bee46394f8cd431125804f34
+  - enabled: 1
+    path: Assets/Scenes/rooms/Aquarium/AquariumA.unity
+    guid: 7c92274b8b3b4f34bb9e7490072fc2b5
+  - enabled: 1
+    path: Assets/Scenes/rooms/Aquarium/Aquarium3.unity
+    guid: f88d24506522d1d4f9b24baf91703292
+  - enabled: 1
+    path: Assets/Scenes/rooms/Aquarium/AquariumBoss.unity
+    guid: 49415469a2f7d514eb15712bd86fe99f
+  - enabled: 1
+    path: Assets/Scenes/rooms/Tower/Tower1.unity
+    guid: fcac7066f8910cd4d9454f2fa7a00453
+  - enabled: 1
+    path: Assets/Scenes/rooms/Tower/Tower2.unity
+    guid: 1371a202b99c38b4f908800ab22e3c6c
+  - enabled: 1
+    path: Assets/Scenes/rooms/Tower/Tower3.unity
+    guid: b4e6a8b5d6138be40a75ae300ccd8e9b
+  - enabled: 1
+    path: Assets/Scenes/rooms/Tower/TowerA.unity
+    guid: a1745a0850f2d414c86b1bb659773bfe
+  - enabled: 1
+    path: Assets/Scenes/rooms/Tower/Tower4.unity
+    guid: d8f97a9181b65534083a3c7fd420c3dd
+  - enabled: 1
+    path: Assets/Scenes/rooms/Tower/Tower5.unity
+    guid: 72960db115c85134f9e1463d56c4b68f
+  - enabled: 1
+    path: Assets/Scenes/rooms/Tower/Tower6.unity
+    guid: ca5d3bc4d79dbfc46877a3bdcc7c207c
+  - enabled: 1
+    path: Assets/Scenes/rooms/Tower/TowerBoss.unity
+    guid: 53332fa0ac82a5248a7f29503bffc01a
+  - enabled: 1
+    path: Assets/Scenes/rooms/Dungeon/Dungeon1.unity
+    guid: d03d29f2a388a3a46815aaf3bb69fdfd
+  - enabled: 1
+    path: Assets/Scenes/rooms/Dungeon/Dungeon2.unity
+    guid: d2f4ef8a08ab46840ad77e23e3f78a76
+  - enabled: 1
+    path: Assets/Scenes/rooms/Dungeon/Dungeon3.unity
+    guid: 0fd92dd377f32174681705f2b3038f5e
+  - enabled: 1
+    path: Assets/Scenes/rooms/Dungeon/Dungeon4.unity
+    guid: d8ee8bece7508c243b6afea3cc210bab
+  - enabled: 1
+    path: Assets/Scenes/rooms/Dungeon/Dungeon5.unity
+    guid: 0f4d02a0d874a674f84fe9ec2626cdf0
+  - enabled: 1
+    path: Assets/Scenes/rooms/Dungeon/Dungeon6.unity
+    guid: b948da68405c0ed42a00c279d8059720
+  - enabled: 1
+    path: Assets/Scenes/rooms/Dungeon/DungeonA.unity
+    guid: b56c7298072be4a4790a9ef08b445aab
+  - enabled: 1
+    path: Assets/Scenes/rooms/Dungeon/Dungeon7.unity
+    guid: af459277a76c6fe468196822f1766550
+  - enabled: 1
+    path: Assets/Scenes/rooms/Dungeon/Dungeon8.unity
+    guid: bf964c9cdeaa50f4ca0588317ebd73e4
+  - enabled: 1
+    path: Assets/Scenes/rooms/Dungeon/Dungeon9.unity
+    guid: 901bac3ac24ff07468ab41d2ccd33af3
+  - enabled: 1
+    path: Assets/Scenes/rooms/Dungeon/Dungeon10.unity
+    guid: 4b3b76a4851b12d4caf6db0878362531
+  - enabled: 1
+    path: Assets/Scenes/rooms/Dungeon/Dungeon11.unity
+    guid: ebe021bea728dc940ad36c60ec2bf96b
+  - enabled: 1
+    path: Assets/Scenes/rooms/Dungeon/Dungeon12.unity
+    guid: dcf48cf324b93d74c9c4134206e2c882
+  - enabled: 1
+    path: Assets/Scenes/rooms/Dungeon/DungeonBoss.unity
+    guid: e554389e84b6f5e4fadb1dc2c1b7d634
+  - enabled: 1
+    path: Assets/Scenes/rooms/Roof/RoofHub.unity
+    guid: 39d6011ef1d1f314681cf633421c65dd
+  - enabled: 1
+    path: Assets/Scenes/rooms/Roof/Roof1.unity
+    guid: 62b739ca63da7f844ab2c83997f10d7a
+  - enabled: 1
+    path: Assets/Scenes/rooms/Roof/Roof2.unity
+    guid: 57c7651fe110d4c49a291a69b6c36c28
+  - enabled: 1
+    path: Assets/Scenes/rooms/Roof/Roof3.unity
+    guid: 23b9e65597ce2004dafee4441ec37ace
+  - enabled: 1
+    path: Assets/Scenes/rooms/Roof/Roof4.unity
+    guid: 31dfb2400f07c24499de96abaadd06b3
+  - enabled: 1
+    path: Assets/Scenes/rooms/Roof/RoofBoss.unity
+    guid: fc3e4194c1f64804fbf2ba17e34f0016
+  m_configObjects: {}
